@@ -35,4 +35,5 @@ def solution(priorities, location):
             # 문서 찾으면, 더이상 반복하지 않기
             if location == firstData[1]:
                 break
+
     return answer
